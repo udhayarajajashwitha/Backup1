@@ -1,0 +1,7 @@
+body{ text-align:center; padding:0px; margin:0px; }
+img{ max-width:100%; }
+.header{ color:#ffffff; background: rgb(4, 152, 250); padding:10px; }
+h1{  }
+.bannerImg{ width:100%; height:200px; overflow:hidden;}
+.bannerImg img{ width:100%; }
+.content{ color:#333; }
